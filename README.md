@@ -31,7 +31,7 @@ The data and code are in the final stage of clean and will be public gradually i
 - [x] ~~Airbnb-easy questions and code~~;
 - [x] ~~SciREX-easy questions and code;~~
 - [X] ~~Agenda-easy questions and code;~~
-- [ ] GSM8K-easy questions and code;
+- [X] ~~GSM8K-easy questions and code;~~
 - [ ] DBLP-easy questions and code;
 
 ### To Do List -- Hard Questions
