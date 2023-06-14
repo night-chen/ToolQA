@@ -35,7 +35,7 @@ The data and code are in the final stage of clean and will be public gradually i
 - [ ] DBLP-easy questions and code;
 
 ### To Do List -- Hard Questions
-- [ ] Flight-hard questions and code;
+- [x] ~~Flight-hard questions and code;~~
 - [ ] Coffee-hard questions and code;
 - [ ] Yelp-hard questions and code;
 - [ ] Airbnb-hard questions and code;
