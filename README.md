@@ -28,7 +28,7 @@ The data and code are in the final stage of clean and will be public gradually i
 - [x] ~~Flight-easy questions and code;~~
 - [x] ~~Coffee-easy questions and code;~~
 - [x] ~~Yelp-easy questions and code;~~
-- [ ] Airbnb-easy questions and code;
+- [x] ~~Airbnb-easy questions and code~~;
 - [ ] SciREX-easy questions and code;
 - [ ] Agenda-easy questions and code;
 - [ ] GSM8K-easy questions and code;
