@@ -36,8 +36,8 @@ The data and code are in the final stage of clean and will be public gradually i
 
 ### To Do List -- Hard Questions
 - [x] ~~Flight-hard questions and code;~~
-- [ ] Coffee-hard questions and code;
-- [ ] Yelp-hard questions and code;
+- [x] ~~Coffee-hard questions and code;~~
+- [x] ~~Yelp-hard questions and code;~~
 - [ ] Airbnb-hard questions and code;
 - [x] ~~SciREX-hard questions and code;~~
 - [x] ~~Agenda-hard questions and code;~~
