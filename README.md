@@ -30,8 +30,8 @@ The data and code are in the final stage of clean and will be public gradually i
 - [x] ~~Yelp-easy questions and code;~~
 - [x] ~~Airbnb-easy questions and code~~;
 - [x] ~~SciREX-easy questions and code;~~
-- [X] ~~Agenda-easy questions and code;~~
-- [X] ~~GSM8K-easy questions and code;~~
+- [x] ~~Agenda-easy questions and code;~~
+- [x] ~~GSM8K-easy questions and code;~~
 - [ ] DBLP-easy questions and code;
 
 ### To Do List -- Hard Questions
@@ -39,8 +39,8 @@ The data and code are in the final stage of clean and will be public gradually i
 - [ ] Coffee-hard questions and code;
 - [ ] Yelp-hard questions and code;
 - [ ] Airbnb-hard questions and code;
-- [ ] SciREX-hard questions and code;
-- [X] ~~Agenda-hard questions and code;~~
+- [x] ~~SciREX-hard questions and code;~~
+- [x] ~~Agenda-hard questions and code;~~
 - [ ] DBLP-hard questions and code;
 
 ### Benchmark Code Release
