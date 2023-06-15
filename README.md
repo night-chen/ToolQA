@@ -17,6 +17,17 @@
   >
 </p>
 
+### Data Sources Download
+All the data sources and download guidance are listed below:
+- **Flight**: You can download the raw flight data from the [Download Link](https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022?select=Combined_Flights_2022.csv). Please place the ``Combined_Flights_2022.csv`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/flights/``.
+- **Coffee**: You can download the raw coffee data from the [Download Link](https://www.kaggle.com/datasets/psycon/daily-coffee-price). Please place the ``coffee.csv`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/coffee/``.
+- **Yelp**: You can download the raw yelp data from the [Download Link](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json). Please place the ``yelp_academic_dataset_business.json`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/yelp/``.
+- **Airbnb**: You can download the raw airbnb data from the [Download Link](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata). Please place the ``Airbnb_Open_data.csv`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/airbnb/``.
+- **DBLP**: You can download the raw dblp data from the [Download Link](https://www.aminer.org/citation). Please place the ``DBLP-Citation-network V14.zip`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/dblp/``.
+- **GSM8K**: You can download the raw dblp data from the [Download Link](https://github.com/openai/grade-school-math). Please run ChatGPT vanilla on the raw questions and place the result file ``gsm.chat.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/gsm8k/``.
+- **SciREX**: You can download the raw dblp data from the [Download Link](https://github.com/allenai/SciREX). Please place the dataset files ``train.jsonl``, ``val.jsonl``, and ``test.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/scirex/``.
+- **Agenda**: You can download the raw data from our prepared [Download Link](https://drive.google.com/file/d/1A-DP_EFGVglaXf6-RUzN2Oq4rB58jExG/view?usp=drive_link). Please place the file ``agenda_events.jsonl`` underthe directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/agenda/``.
+
 ### Generate New Questions
 You can also use the ToolQA to generate new questions under our templates for tuning and new sets of evalations. We offer the data generation code in `/dataset_generation/` directory. The only thing to do is to modify the paths in the notebooks.
 
