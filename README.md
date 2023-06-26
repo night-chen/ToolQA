@@ -67,10 +67,10 @@ The data and code are in the final stage of cleaning and will be public graduall
 - [ ] ReAct;
 - [ ] Chameleon;
 
-# Questions?
+## Questions?
 If you have any questions, feel free to reach out to `yczhuang at gatech.edu`. Please try to specify the problem with details so we can help you better and quicker!
 
-# Citation
+## Citation
 If you find this repository valuable for your research, we kindly request that you acknowledge our paper by citing the following paper. We appreciate your consideration.
 ```
 @misc{zhuang2023toolqa,
