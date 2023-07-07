@@ -18,26 +18,26 @@
 {"qid": "hard-agenda-0017", "question": "How many events happen on 2022/05/30 in the agenda table?", "answer": 33}
 {"qid": "hard-agenda-0018", "question": "How many events happen on 2022/07/15 in the agenda table?", "answer": 27}
 {"qid": "hard-agenda-0019", "question": "How many events happen on 2022/05/06 in the agenda table?", "answer": 21}
-{"qid": "hard-agenda-0020", "question": "Who is unavailble between 1:00 PM and 3:00 PM on 2022/06/17 in the agenda table?", "answer": 6}
-{"qid": "hard-agenda-0021", "question": "Who is unavailble between 9:00 AM and 1:00 PM on 2022/10/06 in the agenda table?", "answer": 7}
-{"qid": "hard-agenda-0022", "question": "Who is unavailble between 12:00 PM and 3:00 PM on 2022/03/13 in the agenda table?", "answer": 6}
-{"qid": "hard-agenda-0023", "question": "Who is unavailble between 9:00 AM and 3:00 PM on 2022/06/20 in the agenda table?", "answer": 14}
-{"qid": "hard-agenda-0024", "question": "Who is unavailble between 8:00 PM and 9:00 PM on 2022/09/15 in the agenda table?", "answer": 8}
-{"qid": "hard-agenda-0025", "question": "Who is unavailble between 3:00 PM and 4:00 PM on 2022/01/19 in the agenda table?", "answer": 3}
-{"qid": "hard-agenda-0026", "question": "Who is unavailble between 6:30 PM and 8:00 PM on 2022/02/10 in the agenda table?", "answer": 7}
-{"qid": "hard-agenda-0027", "question": "Who is unavailble between 8:00 PM and 10:00 PM on 2022/06/06 in the agenda table?", "answer": 7}
-{"qid": "hard-agenda-0028", "question": "Who is unavailble between 10:00 AM and 12:00 PM on 2022/06/23 in the agenda table?", "answer": 7}
-{"qid": "hard-agenda-0029", "question": "Who is unavailble between 2:00 PM and 4:00 PM on 2022/03/17 in the agenda table?", "answer": 10}
-{"qid": "hard-agenda-0030", "question": "Who is unavailble between 3:00 PM and 4:30 PM on 2022/06/21 in the agenda table?", "answer": 10}
-{"qid": "hard-agenda-0031", "question": "Who is unavailble between 12:00 PM and 2:00 PM on 2022/09/13 in the agenda table?", "answer": 11}
-{"qid": "hard-agenda-0032", "question": "Who is unavailble between 3:00 PM and 4:00 PM on 2022/05/27 in the agenda table?", "answer": 4}
-{"qid": "hard-agenda-0033", "question": "Who is unavailble between 6:00 AM and 8:00 AM on 2022/12/19 in the agenda table?", "answer": 1}
-{"qid": "hard-agenda-0034", "question": "Who is unavailble between 8:00 AM and 12:00 PM on 2022/12/26 in the agenda table?", "answer": 9}
-{"qid": "hard-agenda-0035", "question": "Who is unavailble between 2:30 PM and 3:30 PM on 2022/04/10 in the agenda table?", "answer": 9}
-{"qid": "hard-agenda-0036", "question": "Who is unavailble between 6:00 AM and 12:00 PM on 2022/08/28 in the agenda table?", "answer": 7}
-{"qid": "hard-agenda-0037", "question": "Who is unavailble between 7:00 PM and 9:00 PM on 2022/10/01 in the agenda table?", "answer": 9}
-{"qid": "hard-agenda-0038", "question": "Who is unavailble between 6:00 PM and 8:00 PM on 2022/09/21 in the agenda table?", "answer": 6}
-{"qid": "hard-agenda-0039", "question": "Who is unavailble between 9:00 AM and 2:00 PM on 2022/06/07 in the agenda table?", "answer": 15}
+{"qid": "hard-agenda-0020", "question": "How many people are unavailble between 1:00 PM and 3:00 PM on 2022/06/17 in the agenda table?", "answer": 6}
+{"qid": "hard-agenda-0021", "question": "How many people are between 9:00 AM and 1:00 PM on 2022/10/06 in the agenda table?", "answer": 7}
+{"qid": "hard-agenda-0022", "question": "How many people are between 12:00 PM and 3:00 PM on 2022/03/13 in the agenda table?", "answer": 6}
+{"qid": "hard-agenda-0023", "question": "How many people are between 9:00 AM and 3:00 PM on 2022/06/20 in the agenda table?", "answer": 14}
+{"qid": "hard-agenda-0024", "question": "How many people are between 8:00 PM and 9:00 PM on 2022/09/15 in the agenda table?", "answer": 8}
+{"qid": "hard-agenda-0025", "question": "How many people are between 3:00 PM and 4:00 PM on 2022/01/19 in the agenda table?", "answer": 3}
+{"qid": "hard-agenda-0026", "question": "How many people are between 6:30 PM and 8:00 PM on 2022/02/10 in the agenda table?", "answer": 7}
+{"qid": "hard-agenda-0027", "question": "How many people are between 8:00 PM and 10:00 PM on 2022/06/06 in the agenda table?", "answer": 7}
+{"qid": "hard-agenda-0028", "question": "How many people are between 10:00 AM and 12:00 PM on 2022/06/23 in the agenda table?", "answer": 7}
+{"qid": "hard-agenda-0029", "question": "How many people are between 2:00 PM and 4:00 PM on 2022/03/17 in the agenda table?", "answer": 10}
+{"qid": "hard-agenda-0030", "question": "How many people are between 3:00 PM and 4:30 PM on 2022/06/21 in the agenda table?", "answer": 10}
+{"qid": "hard-agenda-0031", "question": "How many people are between 12:00 PM and 2:00 PM on 2022/09/13 in the agenda table?", "answer": 11}
+{"qid": "hard-agenda-0032", "question": "How many people are between 3:00 PM and 4:00 PM on 2022/05/27 in the agenda table?", "answer": 4}
+{"qid": "hard-agenda-0033", "question": "How many people are between 6:00 AM and 8:00 AM on 2022/12/19 in the agenda table?", "answer": 1}
+{"qid": "hard-agenda-0034", "question": "How many people are between 8:00 AM and 12:00 PM on 2022/12/26 in the agenda table?", "answer": 9}
+{"qid": "hard-agenda-0035", "question": "How many people are between 2:30 PM and 3:30 PM on 2022/04/10 in the agenda table?", "answer": 9}
+{"qid": "hard-agenda-0036", "question": "How many people are between 6:00 AM and 12:00 PM on 2022/08/28 in the agenda table?", "answer": 7}
+{"qid": "hard-agenda-0037", "question": "How many people are between 7:00 PM and 9:00 PM on 2022/10/01 in the agenda table?", "answer": 9}
+{"qid": "hard-agenda-0038", "question": "How many people are between 6:00 PM and 8:00 PM on 2022/09/21 in the agenda table?", "answer": 6}
+{"qid": "hard-agenda-0039", "question": "How many people are between 9:00 AM and 2:00 PM on 2022/06/07 in the agenda table?", "answer": 15}
 {"qid": "hard-agenda-0040", "question": "When should I schedule a meeting with Alice from 9:00 AM to 6:00 PM on 2022/01/06 in the agenda table?", "answer": "9:00 AM-1:00 PM, 3:00 PM-6:00 PM"}
 {"qid": "hard-agenda-0041", "question": "When should I schedule a meeting with Victoria from 9:00 AM to 6:00 PM on 2022/08/05 in the agenda table?", "answer": "9:00 AM-2:00 PM, 4:00 PM-6:00 PM"}
 {"qid": "hard-agenda-0042", "question": "When should I schedule a meeting with Faith from 9:00 AM to 6:00 PM on 2022/04/01 in the agenda table?", "answer": "9:00 AM-8:00 PM, 10:00 PM-6:00 PM"}
