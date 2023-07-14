@@ -31,13 +31,28 @@ All the data sources and download guidance are listed below:
 - **Yelp**: You can download the raw Yelp data from the [Download Link](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset?select=yelp_academic_dataset_business.json). Please place the ``yelp_academic_dataset_business.json`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/yelp/``.
 - **Airbnb**: You can download the raw Airbnb data from the [Download Link](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata). Please place the ``Airbnb_Open_data.csv`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/airbnb/``.
 - **DBLP**: You can download the raw DBLP data from the [Download Link](https://www.aminer.org/citation). Please place the ``DBLP-Citation-network V14.zip`` file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/dblp/``.
-- **GSM8K**: You can download the raw DBLP data from the [Download Link](https://github.com/openai/grade-school-math). Please run ChatGPT vanilla on the raw questions and place the result file ``gsm.chat.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/gsm8k/``.
-- **SciREX**: You can download the raw DBLP data from the [Download Link](https://github.com/allenai/SciREX). Please place the dataset files ``train.jsonl``, ``val.jsonl``, and ``test.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/scirex/``.
-- **Agenda**: You can download the raw data from our prepared [Download Link](https://drive.google.com/file/d/1A-DP_EFGVglaXf6-RUzN2Oq4rB58jExG/view?usp=drive_link). Please place the file ``agenda_events.jsonl`` underthe directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/agenda/``.
+- **GSM8K**: You can download the raw GSM8K data from the [Download Link](https://github.com/openai/grade-school-math). Please run ChatGPT vanilla on the raw questions and place the result file ``gsm.chat.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/gsm8k/``.
+- **SciREX**: You can download the raw SciREX data from the [Download Link](https://github.com/allenai/SciREX). Please place the dataset files ``train.jsonl``, ``val.jsonl``, and ``test.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/scirex/``.
+- **Agenda**: You can download the raw data from our prepared [Download Link](https://drive.google.com/file/d/1A-DP_EFGVglaXf6-RUzN2Oq4rB58jExG/view?usp=drive_link). Please place the file ``agenda_events.jsonl`` under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/raw_data/agenda/``.
 
 ### Generate New Questions
 You can also use the ToolQA to generate new questions under our templates for tuning and new sets of evalations. We offer the data generation code in `/dataset_generation/` directory. The only thing to do is to modify the paths in the notebooks.
 
+## Tool Implementation
+
+We offer a list of implemented tools in each of the baselines in the benchmark, like ``./benchmark/ReAct/code/tools``. Please note that the questions are intentionally designed to be open-ended. This reflects our belief that these questions pose sufficient challenges, and we don't wish to limit the tools suggested in our paper. We welcome experiments with more advanced tools (like a superior retriever) to enhance performance or devising a more effective planning module for better compositional usage of our defined tools. Therefore, we are excited to see diverse implementations in response to all our questions.
+
+### Retriever
+We implement the retriever with [Langchain](https://python.langchain.com/) package and the [Chroma vector database](https://docs.trychroma.com/). We have uploaded the pre-processed chroma vectorbase in the [Download Link](https://drive.google.com/file/d/1A--blpdTbH8C_UeLvyi2mxnqXEKaK7pp/view?usp=sharing). Please download the file under the directory ``/<YOUR_OWN_PATH>/ToolQA/data/chroma_db/``.
+
+### SQL Interpreter
+To interprete SQL commands, the user may need to load the database into the mysql database first. You can run the following commands for database creation (the entire process may take hours):
+```python
+python ./benchmark/ReAct/code/tools/table/mysql_db_create.py
+```
+
+### Math Calculator
+To use the calculator in the implementation. You first need to sign up an account through the official [Wolframalpha developer portal](https://account.wolfram.com/login/oauth2/sign-in).
 
 ## Current Progress
 The data and code are in the final stage of cleaning and will be public gradually in a very short period. We offer the detailed progress of the final examination in the TODO list part.
@@ -56,15 +71,15 @@ The data and code are in the final stage of cleaning and will be public graduall
 - [x] ~~Flight-hard questions and code;~~
 - [x] ~~Coffee-hard questions and code;~~
 - [x] ~~Yelp-hard questions and code;~~
-- [x] Airbnb-hard questions and code;
+- [x] ~~Airbnb-hard questions and code;~~
 - [x] ~~SciREX-hard questions and code;~~
 - [x] ~~Agenda-hard questions and code;~~
 - [x] ~~DBLP-hard questions and code;~~
 
 ### Benchmark Code Release
-- [ ] ChatGPT Vanilla;
-- [ ] Chain-of-Thoughts;
-- [ ] ReAct;
+- [x] ~~Tool Implementations;~~
+- [x] ~~ChatGPT Vanilla;~~
+- [x] ~~ReAct;~~
 - [ ] Chameleon;
 
 ## Questions?

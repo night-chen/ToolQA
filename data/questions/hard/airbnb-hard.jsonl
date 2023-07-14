@@ -1,6 +1,6 @@
 {"qid": "hard-airbnb-0000", "question": "What is the total price at least if you want to stay at Bright, modern room with panoramic window in Maspeth for 8 nights?", "answer": "$ 42450.0"}
 {"qid": "hard-airbnb-0001", "question": "What is the total price at least if you want to stay at Quiet and spacious room for 2 in Maspeth for 4 nights?", "answer": "$ 3848.0"}
-{"qid": "hard-airbnb-0002", "question": "What is the total price at least if you want to stay at Spacious Lovely 1B1B in UP Manhattan 4Min to Train in Washington Heights for 19 nights?", "answer": "$ nan"}
+{"qid": "hard-airbnb-0002", "question": "What is the total price at least if you want to stay at Cozy Vintage Artist Flat(Williamsburg/Bushwick) in Bedford-Stuyvesant for 14 nights?", "answer": "$ 840.0"}
 {"qid": "hard-airbnb-0003", "question": "What is the total price at least if you want to stay at Beautiful loft in DUMBO Brooklyn in Vinegar Hill for 7 nights?", "answer": "$ 3661.0"}
 {"qid": "hard-airbnb-0004", "question": "What is the total price at least if you want to stay at Ditmas Park Beauty in Flatbush for 2 nights?", "answer": "$ 3498.0"}
 {"qid": "hard-airbnb-0005", "question": "What is the total price at least if you want to stay at Peaceful, cozy studio in Chinatown in Chinatown for 9 nights?", "answer": "$ 13820.0"}
@@ -19,25 +19,25 @@
 {"qid": "hard-airbnb-0018", "question": "How many airbnbs are there in Roosevelt Island?", "answer": "159"}
 {"qid": "hard-airbnb-0019", "question": "How many airbnbs are there in Van Nest?", "answer": "26"}
 {"qid": "hard-airbnb-0020", "question": "What is the average price of airbnbs in Boerum Hill?", "answer": "$ 627.0"}
-{"qid": "hard-airbnb-0021", "question": "What is the average price of airbnbs in Woodside?", "answer": "$ nan"}
-{"qid": "hard-airbnb-0022", "question": "What is the average price of airbnbs in Upper East Side?", "answer": "$ nan"}
-{"qid": "hard-airbnb-0023", "question": "What is the average price of airbnbs in Financial District?", "answer": "$ nan"}
+{"qid": "hard-airbnb-0021", "question": "What is the average price of airbnbs in Schuylerville?", "answer": "$ 659.4"}
+{"qid": "hard-airbnb-0022", "question": "What is the average price of airbnbs in Maspeth?", "answer": "$ 597.0"}
+{"qid": "hard-airbnb-0023", "question": "What is the average price of airbnbs in Sheepshead Bay?", "answer": "$ 624.9"}
 {"qid": "hard-airbnb-0024", "question": "What is the average price of airbnbs in Grant City?", "answer": "$ 558.2"}
 {"qid": "hard-airbnb-0025", "question": "What is the average price of airbnbs in East Morrisania?", "answer": "$ 764.7"}
 {"qid": "hard-airbnb-0026", "question": "What is the average price of airbnbs in Howland Hook?", "answer": "$ 657.3"}
 {"qid": "hard-airbnb-0027", "question": "What is the average price of airbnbs in Glen Oaks?", "answer": "$ 550.5"}
-{"qid": "hard-airbnb-0028", "question": "What is the average price of airbnbs in East Harlem?", "answer": "$ nan"}
+{"qid": "hard-airbnb-0028", "question": "What is the average price of airbnbs in Queens Village?", "answer": "$ 661.9"}
 {"qid": "hard-airbnb-0029", "question": "What is the average price of airbnbs in Stuyvesant Town?", "answer": "$ 680.9"}
-{"qid": "hard-yelp-0030", "question": "What is the average review rates within 5 miles from Spacious 1 BR in Midtown East in Midtown?", "answer": 3.27}
-{"qid": "hard-yelp-0031", "question": "What is the average review rates within 5 miles from 10 mins/Airports JFK/LGA/Hosp/malls bus/train#4 in Richmond Hill?", "answer": 3.39}
-{"qid": "hard-yelp-0032", "question": "What is the average review rates within 5 miles from Williamsburg Home with a View in Williamsburg?", "answer": 3.28}
-{"qid": "hard-yelp-0033", "question": "What is the average review rates within 5 miles from Spacious Midtown East 2 Bedroom in Midtown?", "answer": 3.27}
-{"qid": "hard-yelp-0034", "question": "What is the average review rates within 5 miles from Slick Prime Lower East East ~BRAND NEW 1br Apt~ in Lower East Side?", "answer": 3.27}
-{"qid": "hard-yelp-0035", "question": "What is the average review rates within 5 miles from Heart of Park Slope in Park Slope?", "answer": 3.26}
-{"qid": "hard-yelp-0036", "question": "What is the average review rates within 5 miles from Charming Mini Loft/ Lower East Side in Lower East Side?", "answer": 3.27}
-{"qid": "hard-yelp-0037", "question": "What is the average review rates within 5 miles from 3 Bedrooms, 1000 Pvt Sq ft in Historic Brownstone. in Harlem?", "answer": 3.26}
-{"qid": "hard-yelp-0038", "question": "What is the average review rates within 5 miles from NEWLY RENOVATED,  studio in Park Slope in Park Slope?", "answer": 3.26}
-{"qid": "hard-yelp-0039", "question": "What is the average review rates within 5 miles from Wonderful apartment with view & Rooftop!!!! in Astoria?", "answer": 3.28}
+{"qid": "hard-yelp-0030", "question": "What is the average review rates within 5 miles from Spacious 1 BR in Midtown East in Midtown?", "answer": "3.27"}
+{"qid": "hard-yelp-0031", "question": "What is the average review rates within 5 miles from 10 mins/Airports JFK/LGA/Hosp/malls bus/train#4 in Richmond Hill?", "answer": "3.39"}
+{"qid": "hard-yelp-0032", "question": "What is the average review rates within 5 miles from Williamsburg Home with a View in Williamsburg?", "answer": "3.28"}
+{"qid": "hard-yelp-0033", "question": "What is the average review rates within 5 miles from Spacious Midtown East 2 Bedroom in Midtown?", "answer": "3.27"}
+{"qid": "hard-yelp-0034", "question": "What is the average review rates within 5 miles from Slick Prime Lower East East ~BRAND NEW 1br Apt~ in Lower East Side?", "answer": "3.27"}
+{"qid": "hard-yelp-0035", "question": "What is the average review rates within 5 miles from Heart of Park Slope in Park Slope?", "answer": "3.26"}
+{"qid": "hard-yelp-0036", "question": "What is the average review rates within 5 miles from Charming Mini Loft/ Lower East Side in Lower East Side?", "answer": "3.27"}
+{"qid": "hard-yelp-0037", "question": "What is the average review rates within 5 miles from 3 Bedrooms, 1000 Pvt Sq ft in Historic Brownstone. in Harlem?", "answer": "3.26"}
+{"qid": "hard-yelp-0038", "question": "What is the average review rates within 5 miles from NEWLY RENOVATED,  studio in Park Slope in Park Slope?", "answer": "3.26"}
+{"qid": "hard-yelp-0039", "question": "What is the average review rates within 5 miles from Wonderful apartment with view & Rooftop!!!! in Astoria?", "answer": "3.28"}
 {"qid": "hard-airbnb-0040", "question": "How much proporion of airbnbs in West Brighton have a flexible cancellation policy?", "answer": "0.31"}
 {"qid": "hard-airbnb-0041", "question": "How much proporion of airbnbs in Fordham have a flexible cancellation policy?", "answer": "0.31"}
 {"qid": "hard-airbnb-0042", "question": "How much proporion of airbnbs in Ditmars Steinway have a flexible cancellation policy?", "answer": "0.3"}
@@ -48,16 +48,16 @@
 {"qid": "hard-airbnb-0047", "question": "How much proporion of airbnbs in Wakefield have a flexible cancellation policy?", "answer": "0.4"}
 {"qid": "hard-airbnb-0048", "question": "How much proporion of airbnbs in Howland Hook have a flexible cancellation policy?", "answer": "0.17"}
 {"qid": "hard-airbnb-0049", "question": "How much proporion of airbnbs in Stuyvesant Town have a flexible cancellation policy?", "answer": "0.33"}
-{"qid": "hard-airbnb-0050", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Eastchester?", "answer": "$961 "}
-{"qid": "hard-airbnb-0051", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Throgs Neck?", "answer": "$984 "}
-{"qid": "hard-airbnb-0052", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Kingsbridge?", "answer": "$978 "}
-{"qid": "hard-airbnb-0053", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Emerson Hill?", "answer": "$317 "}
-{"qid": "hard-airbnb-0054", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Williamsbridge?", "answer": "$990 "}
-{"qid": "hard-airbnb-0055", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Edgemere?", "answer": "$964 "}
-{"qid": "hard-airbnb-0056", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Morningside Heights?", "answer": "$997 "}
-{"qid": "hard-airbnb-0057", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Howard Beach?", "answer": "$968 "}
-{"qid": "hard-airbnb-0058", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Kew Gardens?", "answer": "$931 "}
-{"qid": "hard-airbnb-0059", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Fort Wadsworth?", "answer": "$1,024 "}
+{"qid": "hard-airbnb-0050", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Eastchester?", "answer": "$961"}
+{"qid": "hard-airbnb-0051", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Throgs Neck?", "answer": "$984"}
+{"qid": "hard-airbnb-0052", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Kingsbridge?", "answer": "$978"}
+{"qid": "hard-airbnb-0053", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Emerson Hill?", "answer": "$317"}
+{"qid": "hard-airbnb-0054", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Williamsbridge?", "answer": "$990"}
+{"qid": "hard-airbnb-0055", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Edgemere?", "answer": "$964"}
+{"qid": "hard-airbnb-0056", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Morningside Heights?", "answer": "$997"}
+{"qid": "hard-airbnb-0057", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Howard Beach?", "answer": "$968"}
+{"qid": "hard-airbnb-0058", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Kew Gardens?", "answer": "$931"}
+{"qid": "hard-airbnb-0059", "question": "How much does it cost per night to stay at the most expensive entire home/apt in Fort Wadsworth?", "answer": "$1,024"}
 {"qid": "hard-airbnb-0060", "question": "How many airbnbs are there in Little Italy that have a review rate higher than 4?", "answer": "119"}
 {"qid": "hard-airbnb-0061", "question": "How many airbnbs are there in Springfield Gardens that have a review rate higher than 4?", "answer": "115"}
 {"qid": "hard-airbnb-0062", "question": "How many airbnbs are there in Eltingville that have a review rate higher than 4?", "answer": "6"}

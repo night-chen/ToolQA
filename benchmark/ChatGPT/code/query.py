@@ -58,7 +58,7 @@ def main():
     parser.add_argument("--version", type=str, default="v2")
     args = parser.parse_args()
 
-    file_path = "/localscratch/yzhuang43/ra-llm/retrieval_benchmark/data/questions_{}/{}/QA-{}-{}.jsonl".format(args.version, args.hardness, args.dataset, args.hardness)
+    file_path = "/<YOUR_OWN_PATH>/ToolQA/data/questions/{}/{}-{}.jsonl".format(args.version, args.hardness, args.dataset, args.hardness)
     with open(file_path, 'r') as f:
         contents = []
         for item in jsonlines.Reader(f):

@@ -78,16 +78,16 @@
 {"qid": "hard-flight-0077", "question": "What is the fastest flight from AKN to ANC on 3?", "answer": "AS2134"}
 {"qid": "hard-flight-0078", "question": "What is the fastest flight from DTW to CWA on 4?", "answer": "DL5409"}
 {"qid": "hard-flight-0079", "question": "What is the fastest flight from SRQ to CLE on 1?", "answer": "F92430"}
-{"qid": "hard-flight-0080", "question": "What is the average speed of DL4130 from HPN to DTW?", "answer": "6.1 miles per minute"}
-{"qid": "hard-flight-0081", "question": "What is the average speed of WN1507 from COS to MDW?", "answer": "7.9 miles per minute"}
-{"qid": "hard-flight-0082", "question": "What is the average speed of AA5272 from GPT to CLT?", "answer": "7.4 miles per minute"}
-{"qid": "hard-flight-0083", "question": "What is the average speed of AA4086 from BPT to DFW?", "answer": "5.3 miles per minute"}
-{"qid": "hard-flight-0084", "question": "What is the average speed of UA6124 from HSV to ORD?", "answer": "5.7 miles per minute"}
-{"qid": "hard-flight-0085", "question": "What is the average speed of DL4239 from LSE to MSP?", "answer": "4.1 miles per minute"}
-{"qid": "hard-flight-0086", "question": "What is the average speed of AA5165 from TRI to CLT?", "answer": "4.0 miles per minute"}
-{"qid": "hard-flight-0087", "question": "What is the average speed of DL2993 from GRB to ATL?", "answer": "7.3 miles per minute"}
-{"qid": "hard-flight-0088", "question": "What is the average speed of DL4268 from IMT to MSP?", "answer": "5.3 miles per minute"}
-{"qid": "hard-flight-0089", "question": "What is the average speed of UA5104 from JMS to DVL?", "answer": "3.8 miles per minute"}
+{"qid": "hard-flight-0080", "question": "What is the average speed of DL4130 from HPN to DTW (miles per minute)?", "answer": "6.1"}
+{"qid": "hard-flight-0081", "question": "What is the average speed of WN1507 from COS to MDW (miles per minute)?", "answer": "7.9"}
+{"qid": "hard-flight-0082", "question": "What is the average speed of AA5272 from GPT to CLT (miles per minute)?", "answer": "7.4"}
+{"qid": "hard-flight-0083", "question": "What is the average speed of AA4086 from BPT to DFW (miles per minute)?", "answer": "5.3"}
+{"qid": "hard-flight-0084", "question": "What is the average speed of UA6124 from HSV to ORD (miles per minute)?", "answer": "5.7"}
+{"qid": "hard-flight-0085", "question": "What is the average speed of DL4239 from LSE to MSP (miles per minute)?", "answer": "4.1"}
+{"qid": "hard-flight-0086", "question": "What is the average speed of AA5165 from TRI to CLT (miles per minute)?", "answer": "4.0"}
+{"qid": "hard-flight-0087", "question": "What is the average speed of DL2993 from GRB to ATL (miles per minute)?", "answer": "7.3"}
+{"qid": "hard-flight-0088", "question": "What is the average speed of DL4268 from IMT to MSP (miles per minute)?", "answer": "5.3"}
+{"qid": "hard-flight-0089", "question": "What is the average speed of UA5104 from JMS to DVL (miles per minute)?", "answer": "3.8"}
 {"qid": "hard-flight-0090", "question": "What is the total number of flights operated by GoJet Airlines, LLC d/b/a United Express on 2022-02-01?", "answer": "177"}
 {"qid": "hard-flight-0091", "question": "What is the total number of flights operated by United Air Lines Inc. on 2022-05-27?", "answer": "1765"}
 {"qid": "hard-flight-0092", "question": "What is the total number of flights operated by Commutair Aka Champlain Enterprises, Inc. on 2022-03-24?", "answer": "195"}
