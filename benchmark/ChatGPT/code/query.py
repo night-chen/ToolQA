@@ -53,12 +53,11 @@ async def dispatch_openai_requests(
 
 def main():
     parser = argparse.ArgumentParser("")
-    parser.add_argument("--dataset", type=str, default="flights")
+    parser.add_argument("--dataset", type=str, default="flight")
     parser.add_argument("--hardness", type=str, default="easy")
-    parser.add_argument("--version", type=str, default="v2")
     args = parser.parse_args()
 
-    file_path = "/<YOUR_OWN_PATH>/ToolQA/data/questions/{}/{}-{}.jsonl".format(args.version, args.hardness, args.dataset, args.hardness)
+    file_path = "/<YOUR_OWN_PATH>/ToolQA/data/questions/{}/{}-{}.jsonl".format(args.hardness, args.dataset, args.hardness)
     with open(file_path, 'r') as f:
         contents = []
         for item in jsonlines.Reader(f):

@@ -1,0 +1,1 @@
+python code/query.py --dataset flights --hardness easy

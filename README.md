@@ -18,6 +18,21 @@
   >
 </p>
 
+## Dataset Statistics
+ToolQA consists of data from 8 distinct domains, each instance being a tuple — (question, answer, reference corpora, and tools). The reference corpora are external knowledge sources that can be queried, which can be a text corpus, a tabular database, or a graph.
+
+| Context      |  Topic | Knowledge Format        |  Knowledge Size  | # Easy Templates | # Easy Questions | # Hard Templates | # Hard Questions |
+|--------------|:------:|:--------------------:|:-------:|:----------------:|:----------------:|:----------------:|:----------------:|
+| Temporal     | Flight |   Tabular Database   | 4078318 |        10        |        100       |        10        |        100       |
+| Temporal     | Coffee |   Tabular Database   |   5746  |         8        |        100       |        13        |        130       |
+| Spatial      |  Yelp  |   Tabular Database   |  150346 |        11        |        100       |        10        |        100       |
+| Spatial      | Airbnb |   Tabular Database   |  102599 |        10        |        100       |        10        |        100       |
+| Mathematical |  GSM8K | Professional Ability |    -    |         -        |        100       |         -        |         -        |
+| Social       |  DBLP  |         Graph        |  553320 |        10        |        100       |        10        |        100       |
+| Scientific   | SciREX |   Pure-Text Corpus   |   438   |         1        |        100       |         4        |        100       |
+| Personal     | Agenda |   Pure-Text Corpus   |  10000  |         5        |        100       |         5        |        100       |
+| **SUM**      |  **-** |         **-**        |  **-**  |      **55**      |      **800**     |      **62**      |      **730**     |
+
 ## Data Download
 We offer the download link for all the data involved in ToolQA. We offer two categories of data for download and use. The first category is **external corpus**. This sort of data have already been pre-processed by us and they are used for external tools to interact, (e.g., retrieve, database operations, etc.). The second category of data is the **raw data**, which cannot be used as external knowledge of ToolQA to interact. We offer this part of data just for users if they want to generate more questions and answers for model tuning or thorough evaluation.
 
@@ -57,30 +72,11 @@ To use the calculator in the implementation. You first need to sign up an accoun
 ## Current Progress
 The data and code are in the final stage of cleaning and will be public gradually in a very short period. We offer the detailed progress of the final examination in the TODO list part.
 
-### To Do List -- Easy Questions
-- [x] ~~Flight-easy questions and code;~~
-- [x] ~~Coffee-easy questions and code;~~
-- [x] ~~Yelp-easy questions and code;~~
-- [x] ~~Airbnb-easy questions and code~~;
-- [x] ~~SciREX-easy questions and code;~~
-- [x] ~~Agenda-easy questions and code;~~
-- [x] ~~GSM8K-easy questions and code;~~
-- [x] ~~DBLP-easy questions and code;~~
-
-### To Do List -- Hard Questions
-- [x] ~~Flight-hard questions and code;~~
-- [x] ~~Coffee-hard questions and code;~~
-- [x] ~~Yelp-hard questions and code;~~
-- [x] ~~Airbnb-hard questions and code;~~
-- [x] ~~SciREX-hard questions and code;~~
-- [x] ~~Agenda-hard questions and code;~~
-- [x] ~~DBLP-hard questions and code;~~
-
-### Benchmark Code Release
+### Open-source Progress
+- [x] ~~Release all the easy and hard questions;~~
 - [x] ~~Tool Implementations;~~
-- [x] ~~ChatGPT Vanilla;~~
-- [x] ~~ReAct;~~
-- [ ] Chameleon;
+- [x] ~~All the benchmark code release;~~
+- [ ] Update the benchmark code.
 
 ## Questions?
 If you have any questions, feel free to reach out to `yczhuang at gatech.edu`. Please try to specify the problem with details so we can help you better and quicker!

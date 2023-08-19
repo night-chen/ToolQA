@@ -1,0 +1,1 @@
+python code/tests.py --dataset flights --hardness easy --version v2 --gpt chatgpt
